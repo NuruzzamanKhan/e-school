@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header-section{
+    background-color: #F0FFF0;
+}
+nav{
+    margin-bottom: 50px;
+}
+.navbar-brand img{
+    height: 50px;
+}
+.btn{
+    padding: 10px 20px;
+    border-radius: 30px;
+}
+.header-cont h1{
+    font-size: 50px;
+}
+.portfolio img{
+    width: 100px;
+    height: 130px;
+}
+.portfolio .card{
+    border: none;
+    background-color: #F8FFFB;
+}
+.portfolio .card:hover{
+    box-shadow: 3px 3px 10px lightgray;
+    background-color: white;
+}
+.card-rounded{
+    border-radius: 20px;
+}
+.courses .icon{
+    width: 20px;
+    margin-top: -8px;
+}
+.courses .card {
+    border: none;
+}
+.testminial{
+    padding: 0px 180px;
+}
+.testminial img{
+    height: 160px;
+}
+
+footer{
+    background-color: #282531;
+}
+footer .menu p{
+    margin-bottom: 4px;
+}
