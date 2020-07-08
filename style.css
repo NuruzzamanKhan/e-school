@@ -40,6 +40,10 @@ nav{
 .courses .card {
     border: none;
 }
+.slide{
+    background-color: #F0FFF0;
+}
+
 .testminial{
     padding: 0px 180px;
 }
@@ -53,3 +57,4 @@ footer{
 footer .menu p{
     margin-bottom: 4px;
 }
+
